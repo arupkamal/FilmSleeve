@@ -91,7 +91,7 @@ Use the full path to the script if you are not in its folder. For
 example:
 
 ``` bash
-python3 "/Users/your-user/Desktop/Film Sleeve ID/film_sleeve_labels_tkinter_centered.py"
+python3 "/Users/your-user/Desktop/Film Sleeve/sleeve.py"
 ```
 
 Replace `your-user` and the folder path with the actual location on your
