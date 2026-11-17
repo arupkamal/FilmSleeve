@@ -422,7 +422,7 @@ The principal layout settings are defined near the top of the Python
 script:
 
 ``` python
-LABEL_W, LABEL_H = 5 * cm, 6.5 * cm
+LABEL_W, LABEL_H = 6 * cm, 8 * cm
 GAP = 5 * mm
 SERIAL_WIDTH = 4
 ```
