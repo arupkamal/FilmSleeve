@@ -21,7 +21,7 @@ except ImportError as exc:
     sys.exit(1)
 
 PAPERS = {"A4": A4, "LETTER": letter}
-LABEL_W, LABEL_H = 5 * cm, 6.5 * cm
+LABEL_W, LABEL_H = 6 * cm, 8 * cm
 GAP = 5 * mm
 SERIAL_WIDTH = 4
 
